@@ -6,7 +6,7 @@ This assignment gives you the opportunity to practice sentiment analysis in two 
 
 1. Create a repository under your GitHub account from this template: https://github.com/37chandler/ads-tm-sentiment. Instructions can be found [here](https://docs.github.com/en/repositories/creating-and-managing-repositories/creating-a-repository-from-a-template). Make your repository public or add your instructor’s Github account as a [collaborator](https://docs.github.com/en/account-and-profile/setting-up-and-managing-your-github-user-account/managing-access-to-your-personal-repositories/inviting-collaborators-to-a-personal-repository). 
 
-2. If you did not complete the assignment for Module 1, download “M1 Assignment Data.zip” from Blackboard and extract it into your repository. If you did complete the assignment for Module 1, then you will use that data in this assignment.  
+2. If you did not complete the assignment for Module 1, download “M1 Assignment Data.zip” from Canvas and extract it into your repository. If you did complete the assignment for Module 1, then you will use that data in this assignment.  
 
 3. The “Sentiment.ipynb” file within the repository holds the starting code and instructions for the assignment. 
 
@@ -19,5 +19,5 @@ Assignment Materials:
 
 Deliverables:
 
-* When you have finished your code, print your notebook as a PDF and upload this document to Blackboard. 
+* When you have finished your code, print your notebook as a PDF and upload this document to Canvas. 
 * Commit your code and push the changes to GitHub so your instructor has access to the ipynb notebook file and any other code you create. 
